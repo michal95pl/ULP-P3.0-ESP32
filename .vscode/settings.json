@@ -1,0 +1,39 @@
+{
+    "C_Cpp.intelliSenseEngine": "default",
+    "idf.espIdfPathWin": "C:\\Users\\micha\\esp\\v5.3.2\\esp-idf",
+    "idf.openOcdConfigs": [
+        "board/esp32s3-builtin.cfg"
+    ],
+    "idf.toolsPathWin": "C:\\Users\\micha\\.espressif",
+    "idf.portWin": "COM4",
+    "idf.flashType": "JTAG",
+    "files.associations": {
+        "pcb_management.h": "c",
+        "task.h": "c",
+        "i2c.h": "c",
+        "i2c_master.h": "c",
+        "esp_timer.h": "c",
+        "oled_display.h": "c",
+        "bitset": "c",
+        "cstdint": "cpp",
+        "splash_animation_data.h": "c",
+        "esp_err.h": "c",
+        "freertos.h": "c",
+        "adc.h": "c",
+        "uart.h": "c",
+        "stdio.h": "c",
+        "string.h": "c",
+        "wifi_connection.h": "c",
+        "stm32_spi_com.h": "c",
+        "cstring": "c",
+        "format": "c",
+        "string_view": "c",
+        "regex": "c",
+        "array": "c",
+        "string": "c",
+        "span": "c",
+        "spi_master.h": "c",
+        "gpio.h": "c",
+        "status_app.h": "c"
+    }
+}
